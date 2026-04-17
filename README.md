@@ -40,9 +40,8 @@ and ground — making it compatible with any MikroBUS host board including
 the companion MCU board in this repo series.
 
 ## Status
-
-✅ Designed · ✅ Manufactured · 🔄 Assembly in Progress · ⏳ Testing Pending
-
+✅ Designed · ✅ Manufactured · ✅ Assembled · ⚠️ IR emitter placement non-conformant 
+— emitters placed on surface rather than through-hole per spec · ⏳ System test pending
 ## Tools Used
 
 Altium Designer · Soldering Station
